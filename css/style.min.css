@@ -857,7 +857,7 @@ body.lock {
 @media (max-width: 992.98px) {
   .whale-light-2 .alphawood__content-line-block {
     transform: translate(294.5px, 0) rotate(180deg);
-    height: calc(100% - 30px);
+    height: calc(100% - 29px);
   }
 }
 @media (max-width: 675.98px) {
@@ -1095,7 +1095,7 @@ body.lock {
 }
 @media (max-width: 480.98px) {
   .whale-light-3 .alphawood__content-line-block {
-    height: calc(100% - 30px);
+    height: calc(100% - 29px);
   }
 }
 .whale-light-3 .alphawood__content-line.animate__animated {
