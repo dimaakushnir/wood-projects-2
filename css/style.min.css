@@ -308,7 +308,7 @@ body.lock {
 @media (max-width: 480.98px) {
   .alphawood {
     min-height: 615px;
-    height: calc(100vh - 70px);
+    height: calc(100vh - 60px);
   }
 }
 .alphawood__image-block {
